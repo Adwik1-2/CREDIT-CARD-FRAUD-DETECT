@@ -45,7 +45,7 @@ This project is a **Credit Card Fraud Detection System** using a machine learnin
 For deployment, consider using **Streamlit Sharing**, **Heroku**, or **Google Cloud App Engine**.
 
 ## Author
-Developed by **[Your Name]**
+Developed by **Adwik Verma**
 
 ## License
 MIT License
